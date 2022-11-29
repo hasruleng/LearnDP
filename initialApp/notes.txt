@@ -1,0 +1,100 @@
+BU dan Stores dari SAP
+
+Product ke Stores ada di PIM
+
+Apakah ada raw material, finished goods, and ingredients management?
+Finished goods ada di PIM
+Raw material dan ingredients ada di SAP, memindahkan data dari SAP ke PIM.
+SAP lebih digunakan untuk manufaktur.
+
+Model Promo MVP 1
+Aurel: % discount, volume (minimum amount) based discount
+Ferdinand K: belum punya desain yang firm, promonya bisa seperti apa saja
+
+Goods return: bukan dikembalikan customer, tapi kembalikan ke vendor/warehouse pusat
+Promo ada yang otomatis ada yg opsional
+
+Sales bisa datang dari FBI-customer apps (food & beverage application), GoFood dan GrabFood
+
+EDC terpisah
+
+
+==== gmeet chat ====
+You5:36 PM
+Lokasi di toko dicatat satu level
+You5:37 PM
+struktur data lokasi: warehouse-rack-bin
+You5:40 PM
+menyimpan inventori berikut nilai dari inventorinya
+*menyimpan quantity dari inventori berikut nilai dari inventorinya
+You5:41 PM
+jurnal ke SAP belum masuk MVP (Fase 1)
+ralat: sinkronisasi ke SAP masuk fase 1
+You5:49 PM
+EDC terpisah tidak terintegrasi dengan POS
+POS hanya mencatat payment type
+You5:53 PM
+Edward: ga mungkin toko bikin promo tapi HO ga tahu
+You5:55 PM
+minta daftar daily atau monthly report yg perlu diproduce, baik di toko ataupun di HO
+Aurelia Herawan5:56 PM
+4. Report - e-feedback
+5. Report - entertain 
+6. Report - report incentive store
+7. Report - Sales Monitoring 
+8. Report - Sales Analysis 
+9. Report - Sales By Date
+10. Report - Sales By Payment
+11. Report - Sales By
+You5:58 PM
+minta fitur inquiry (pencarian) yang dibutuhkan, mirip dengan report tapi tidak diprint
+
+You6:01 PM
+masih kurang jelas:
+4. Report - e-feedback
+5. Report - entertain 
+6. Report - report incentive store
+7. Report - Sales Monitoring 
+8. Report - Sales Analysis 
+11. Report - Sales By
+6. report incentive store => (pencapaian performa store)
+Aurelia Herawan6:02 PM
+11. Report - Sales By POS ID
+12. Report - Sales Per Hour
+13. Report - Sales Race
+14. Report - Sales Race Member
+15. Report - Summary Redemption
+16. Report - Voucher Terpakai
+Report - Sales By Menu
+You6:02 PM
+5. Report - entertain: AM bawa tamu bisa digratiskan
+4. Report - e-feedback: di POS ada pencatatan feedback, baik | normal | buruk
+You6:04 PM
+masih kurang jelas:
+13. Report - Sales Race
+14. Report - Sales Race Member
+
+Mamad: Update rencana kerja => effort, strategi rencana kerja
+Ronald: MVP 1 bisa dipake di Q1 2023
+
+You6:06 PM
+MVP 1 bisa dipakai di Q1 2023
+apa saja yang masuk MVP 1?
+atau pertanyaannya dibalik, mana saja yang belum masuk MVP 1?
+You6:10 PM
+MVP 1: fokus F&B 
+1. integrasi data, SKU, price, dari dan ke PBI & SAP
+2. konfigurasi toko & POS
+3. promo masih yang simpel
+4. entry SKU masih klik belum pakai scanner
+5. void transaction
+6. meskipun MVP 1 untuk F&B namun secara desain sistem tidak boleh dibatasi untuk F&B
+
+===========================================================
+Foundation Framework
+
+MIS vs. Costumer Apps
+
+KLG => MIS
+
+Ferdinand: ada tim yg develop stock & ada yg develop POS, gimana cara kedua tim bisa membangun secara independen

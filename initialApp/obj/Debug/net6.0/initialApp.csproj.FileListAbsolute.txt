@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\bin\Debug\net6.0\initialApp.exe
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\bin\Debug\net6.0\initialApp.deps.json
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\bin\Debug\net6.0\initialApp.runtimeconfig.json
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\bin\Debug\net6.0\initialApp.dll
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\bin\Debug\net6.0\ref\initialApp.dll
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\bin\Debug\net6.0\initialApp.pdb
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.dll
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\ref\initialApp.dll
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.pdb
+C:\Users\ASUS\OneDrive - PT ECOMINDO SARANACIPTA\Documents\PDEng\belajarCoding\LearnDP\initialApp\obj\Debug\net6.0\initialApp.genruntimeconfig.cache
